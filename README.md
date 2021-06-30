@@ -12,17 +12,17 @@ This application was created to generate portfolios with Node.js given informati
 - [Questions](#questions)
 - [Credits](#credits)
 
-##Installation
+## Installation
 To use this application, please install:
 
 ```
 npm  inquirer
 ```
 
-##Usage
+## Usage
 After installing the required packages, use the command line to navigate to the root of the application and run `node app`. 
 
-##Built With
+## Built With
 - Node.js
 - npm
 - Inquirer
